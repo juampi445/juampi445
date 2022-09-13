@@ -48,10 +48,6 @@
 
 <br/>  
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=juampi445&&style=flat-square" align="center" />
-</div>  
-
 <br />
 
 ----
