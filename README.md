@@ -6,7 +6,7 @@
 ### <div align="center">I'm Juan Pablo, a Full-Stack-Web-Developer 👨‍💻 from Buenos Aires, Argentina 🌎🇦🇷</div>  
   
 
-<div align="center">💛 I am passionate about the possibilities and the feeling of freedom that programming gives, i am also looking for my first job in IT, so I can improve my skills and expand those possibilities</div>  
+<div align="left">💛 I am passionate about the possibilities and the feeling of freedom that programming gives, i am also looking for my first job in IT, so I can improve my skills and expand those possibilities</div>  
   
 
 <br/>  
