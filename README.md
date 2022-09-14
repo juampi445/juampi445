@@ -48,9 +48,12 @@
 
 <br/>  
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=juampi445&&style=flat-square" align="center" />
-</div>  
+## My Projects  
+  <div align="center" style="width: 100%; display: flex;">
+      <img src="./changaApp.png" align="center" style="width: 30%" />
+      <img src="./countries.png" align="center" style="width: 30%" />
+      <img src="./weather.png" align="center" style="width: 30%" />
+  </div>
 
 <br />
 
