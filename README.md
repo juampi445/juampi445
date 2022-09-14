@@ -40,13 +40,7 @@
 </div>  
   
 
-<br/>  
-
-
-## Github Stats  
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juampi445&show_icons=true&locale=en" alt="juampi445" /></p>
-
-<br/>  
+<br/>    
 
 ## My Projects  
 
@@ -54,21 +48,21 @@
 <img src="./changaApp.png" align="center" style="width: 90%" />
           
 
-##<div align="left">It is an application to carry out sporadic hiring or publish your services and receive job applications, it includes login with google and facebook, e-mail system, payment within the app, a public profile and a private one where applications are handled, notifications, services, reviews and more</div>
+<div align="left">It is an application to carry out sporadic hiring or publish your services and receive job applications, it includes login with google and facebook, e-mail system, payment within the app, a public profile and a private one where applications are handled, notifications, services, reviews and more</div>
 
 <br/> 
   
 <img src="./countries.png" align="center" style="width: 90%" />
   
   
-##<div align="left">It is an app that shows information about all the countries of the world, includes filters and orders, details of each country, search bar and you can also create activities and associate them with one or several countries that in turn make up another filter</div>
+<div align="left">It is an app that shows information about all the countries of the world, includes filters and orders, details of each country, search bar and you can also create activities and associate them with one or several countries that in turn make up another filter</div>
 
 <br/> 
 
 <img src="./weather.png" align="center" style="width: 90%" />
 
 
-##<div align="left">It's the simplest but my favorite so far, because it was my first creation and I put a lot of effort into the styling which is made up of pure css. In this app you can get information about the weather of any city in the world and it also has a dark mode</div>
+<div align="left">It's the simplest but my favorite so far, because it was my first creation and I put a lot of effort into the styling which is made up of pure css. In this app you can get information about the weather of any city in the world and it also has a dark mode</div>
 
 <br />
 
