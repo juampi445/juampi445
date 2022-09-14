@@ -50,17 +50,17 @@
 
 ## My Projects  
   <div align="center" style="width: 100%;">
-    <div align="center" style="width: 100%; display: flex; justifyContent: space-evenly">
-          <img src="./changaApp.png" align="center" style="width: 30%" />
-          <p>It is an application to carry out sporadic hiring or publish your services and receive job applications, it includes login with google and facebook, e-mail system, payment within the app, a public profile and a private one where applications are handled, notifications, services, reviews and more</p>
+    <div align="center" style="width: 100%">
+          <img src="./changaApp.png" align="center" style="width: 90%" />
+          <p align="left" style="font-size: 30px">It is an application to carry out sporadic hiring or publish your services and receive job applications, it includes login with google and facebook, e-mail system, payment within the app, a public profile and a private one where applications are handled, notifications, services, reviews and more</p>
     </div>
-    <div align="center" style="width: 100%; display: flex; justifyContent: space-evenly">
-          <img src="./countries.png" align="center" style="width: 30%" />
-          <p>It is an app that shows information about all the countries of the world, includes filters and orders, details of each country, search bar and you can also create activities and associate them with one or several countries that in turn make up another filter</p>
+    <div align="center" style="width: 100%">
+          <img src="./countries.png" align="center" style="width: 90%" />
+          <p align="left" style="font-size: 30px">It is an app that shows information about all the countries of the world, includes filters and orders, details of each country, search bar and you can also create activities and associate them with one or several countries that in turn make up another filter</p>
     </div>
-    <div align="center" style="width: 100%; display: flex; justifyContent: space-evenly">
-          <img src="./weather.png" align="center" style="width: 30%" />
-          <p>It's the simplest but my favorite so far, because it was my first creation and I put a lot of effort into the styling which is made up of pure css. In this app you can get information about the weather of any city in the world and it also has a dark mode</p>
+    <div align="center" style="width: 100%">
+          <img src="./weather.png" align="center" style="width: 90%" />
+          <p align="left" style="font-size: 30px">It's the simplest but my favorite so far, because it was my first creation and I put a lot of effort into the styling which is made up of pure css. In this app you can get information about the weather of any city in the world and it also has a dark mode</p>
     </div>
   </div>
 
